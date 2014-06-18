@@ -1,5 +1,5 @@
 {% if False %}
-# Django 1.6 Base Template #
+# Django 1.7 Base Template #
 
 ## About ##
 
