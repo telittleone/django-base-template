@@ -3,11 +3,11 @@
 Django>=1.6
 
 # Templates
-django-compressor
+django-pipeline
 pyjade
 
 # Caching
-python-memcached
+python3-memcached
 
 # Migrations
 South
