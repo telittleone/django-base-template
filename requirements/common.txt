@@ -9,9 +9,6 @@ pyjade
 # Caching
 python3-memcached
 
-# Migrations
-South
-
 # Social auth
 # python-social-auth
 
